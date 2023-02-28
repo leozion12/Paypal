@@ -1,6 +1,7 @@
 landmark
-simon
-dominion
+Simon
+Dominion
 Ayo
 Obi
 manager
+Datti
